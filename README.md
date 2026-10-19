@@ -1,5 +1,5 @@
 # SEM-Defect-Sim
-**SEMDefectSim** is a synthetic Scanning Electron Microscopy (SEM) defect dataset for research, algorithm development, and benchmarking. It provides physics-inspired, labeled defect images with controlled variations for developing and evaluating defect detection methods as an alternative to costly, restricted fab-acquired data.
+**SEMDefectSim** is a synthetic Scanning Electron Microscopy (SEM) defect dataset for research, algorithm development, and benchmarking. It provides physics-inspired, labeled defect images for developing and evaluating defect detection methods as an alternative to costly, restricted fab-acquired data.
 
 The dataset contains SEM-like images of contact-hole arrays generated using mathematical models. ***Contact holes*** are arranged ***on either square or hexagonal lattices***, with **missing-hole defects** introduced at randomly selected lattice positions.
 
