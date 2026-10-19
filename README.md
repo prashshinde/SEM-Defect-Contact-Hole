@@ -18,7 +18,7 @@ The released dataset contains one defect class:
 
 **Missing hole** — an intended contact hole is absent from its designated lattice position.
 
-The dark circular regions represent contact/via holes in a semiconductor lithography layout. The underlying square or hexagonal lattice represents the intended positions at which these holes are patterned during fabrication.
+The dark circular regions represent contact/via holes in a semiconductor lithography layout.
 
 Bounding boxes identify the locations of missing-hole defects and serve as ground-truth annotations for defect detection and localization.
 
