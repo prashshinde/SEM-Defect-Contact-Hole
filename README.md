@@ -20,7 +20,7 @@ The released dataset contains one defect class:
 
 The dark circular regions represent contact/via holes in a semiconductor lithography layout.
 
-Bounding boxes identify the locations of missing-hole defects and serve as ground-truth annotations for defect detection and localization.
+Bounding boxes identify the locations of missing-hole defects and serve as ground-truth for defect detection and localization.
 
 ### Dataset Statistics
 
