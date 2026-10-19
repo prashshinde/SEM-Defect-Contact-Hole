@@ -42,7 +42,7 @@ These annotations identify the location of each missing-hole defect.
 
 ### Intended Use
 
-SEMDefectSim is intended for research, machine learning development, validation, and benchmarking. Potential applications may include:
+SEMDefectSim is intended for research, machine learning model development, validation, and benchmarking. Potential applications may include:
 
 - Training and evaluating defect detection models
 - Defect localization and computer vision research
