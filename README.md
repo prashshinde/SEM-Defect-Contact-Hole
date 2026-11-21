@@ -42,7 +42,7 @@ These annotations identify the location of each missing-hole defect.
 
 ### Intended Use
 
-SEMDefectSim is intended for research, machine learning model development, validation, and benchmarking. Potential applications may include:
+This dataset is intended for research, machine learning model development, validation, and benchmarking. Potential applications may include:
 
 - Training and evaluating defect detection models
 - Defect localization and computer vision research
@@ -52,7 +52,7 @@ SEMDefectSim is intended for research, machine learning model development, valid
 
 **Limitations**
 
-SEMDefectSim consists of synthetically generated SEM-like images and does not capture every physical, process-related, or instrument-specific characteristic of real SEM imagery. Results obtained using this dataset may therefore not directly translate to real-world inspection data.
+It consists of synthetically generated SEM-like images and does not capture every physical, process-related, or instrument-specific characteristic of real SEM imagery. Results obtained using this dataset may therefore not directly translate to real-world inspection data.
 
 **Data Availability**
 
@@ -60,10 +60,10 @@ This repository provides the generated SEM images and associated annotations for
 
 **Citation**
 
-If you use this SEMDefectSim dataset in your research, please cite this repository:
+If you use this dataset in your research, please cite this repository:
 
 @dataset{semdefectsim,\
-     title     = {SEMDefectSim: Physics-Inspired Synthetic SEM Defect Dataset},\
+     title     = {SEM-Defect-Sim: Physics-Inspired Synthetic SEM Defect Dataset},\
      author    = {Prashant P. Shinde},\
      year      = {2026},\
      publisher = {GitHub},\
